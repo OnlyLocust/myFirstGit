@@ -1,0 +1,6 @@
+start : git init !!
+To download git : git update-git-for-windows
+to check version of git : git --version
+to add file in git : git add fileName
+to check ststus of file : git status
+to commit a change : git cummit -m "anything write"
